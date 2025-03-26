@@ -1,0 +1,15 @@
+Temperature: 30°C, Ice Cream Sales: 120 units
+Temperature: 29°C, Ice Cream Sales: 135 units
+Temperature: 31°C, Ice Cream Sales: 140 units
+Temperature: 32°C, Ice Cream Sales: 150 units
+Temperature: 33°C, Ice Cream Sales: 160 units
+Temperature: 31°C, Ice Cream Sales: 145 units
+Temperature: 32°C, Ice Cream Sales: 155 units
+Temperature: 30°C, Ice Cream Sales: 148 units
+Temperature: 31°C, Ice Cream Sales: 152 units
+Temperature: 32°C, Ice Cream Sales: 158 units
+Temperature: 28°C, Ice Cream Sales: 140 units
+Temperature: 30°C, Ice Cream Sales: 160 units
+Temperature: 32°C, Ice Cream Sales: 150 units
+Temperature: 33°C, Ice Cream Sales: 145 units
+Temperature: 31°C, Ice Cream Sales: 155 units
